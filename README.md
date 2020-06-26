@@ -1,2 +1,2 @@
 # sms-settings
-SMS custom settings boilerplate 
+SMS custom plugin boilerplate for additional settings  
